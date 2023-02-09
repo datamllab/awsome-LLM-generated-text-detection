@@ -32,7 +32,6 @@ An alternative is white-box detection, in this scenario, the detector has full a
   * [Automatic Detection of Machine Generated Text: A Critical Survey](https://arxiv.org/pdf/2011.01314.pdf)
   * [Deepfake Text Detection: Limitations and Opportunities](https://arxiv.org/pdf/2210.09421.pdf)
   * [A Brief Survey on Deep Learning Based Data Hiding](http://staff.ustc.edu.cn/~zhangwm/Paper/2021_30.pdf)
-  * [Making Machine Learning Robust Against Adversarial Inputs](https://dl.acm.org/doi/pdf/10.1145/3134599)
 
 
 ## Black-Box Detection
